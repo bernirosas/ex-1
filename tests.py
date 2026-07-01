@@ -1,5 +1,5 @@
 """
-Validation tests for the Topsort take-home.
+Validation tests for the Topsort mini.
 
 Run with:
     python tests.py
